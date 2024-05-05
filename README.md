@@ -1,1 +1,2 @@
-# cohort-analysis
+In this exercise, Pandas is employed to generate monthly acquisition cohorts, and Matplotlib is utilized to visualize the retention matrix heatmap for gaining insights. Due to the absence of registration dates in the dataset, an assumption has been made that the month of the first purchase represents the customer's acquisition month.
+The dataset used in the analysis is publicly available at https://archive.ics.uci.edu/dataset/502/online+retail+ii
